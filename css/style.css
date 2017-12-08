@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#pano {
+  height: 80%;
+  width: 90%;
+  margin: auto;
+}
+
+#menu1{
+  height: 5%;
+  margin-bottom: 4%;
+}
+
+#quizz{
+  width: 100%;
+}
+
+#yolo
+{
+  font-size: 250%;
+}
